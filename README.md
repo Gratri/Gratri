@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Gratri
+- 👀 I’m interested in web development (HTML, PHP, CSS, MySQL) and Java (especially for Minecraft)
+- 🌱 I’m currently learning advanced web development techniques and improving my Java skills for Minecraft modding
+- 💞️ I’m looking to collaborate on open-source web projects and Minecraft plugins
+- 📫 How to reach me: l.noel163@icloud.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: I’m the founder of KingWars, a Minecraft server dedicated to epic battles and strategy!
